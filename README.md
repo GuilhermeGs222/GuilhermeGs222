@@ -1,3 +1,5 @@
+![Banner do Guilherme](https://media.licdn.com/dms/image/v2/D4E16AQHDgTvsF7Pw3A/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1712765237270?e=1738800000&v=beta&t=vsXHV8ZFp0C3UwYNeTdVhB5WljZOsrgkTXIB8QVZvGs)
+
 ## Muito prazer!  
 Eu sou o **Guilherme e Silva Souza**, mais conhecido como **GuilhermeGS222**, Futuro desenvolvedor FullStack!
 
@@ -38,4 +40,4 @@ Eu sou o **Guilherme e Silva Souza**, mais conhecido como **GuilhermeGS222**, Fu
   <a href="https://www.linkedin.com/in/guilherme-e-silva-souza-49417525a/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
-</div>
+</div>  
