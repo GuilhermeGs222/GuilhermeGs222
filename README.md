@@ -3,14 +3,14 @@ Eu sou o **Guilherme e Silva Souza**, mais conhecido como **GuilhermeGS222**, Fu
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=GuilhermeGS222&show_icons=true&theme=transparent&rank_icon=github"
+    srcset="https://github-readme-stats.vercel.app/api?username=GuilhermeGS222&show_icons=true&theme=transparent&rank_icon=octicons"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=GuilhermeGS222&show_icons=true&theme=transparent&rank_icon=github"
+    srcset="https://github-readme-stats.vercel.app/api?username=GuilhermeGS222&show_icons=true&theme=transparent&rank_icon=octicons"
     media="(prefers-color-scheme: radical), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=GuilhermeGS222&show_icons=true&theme=transparent&rank_icon=github" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GuilhermeGS222&show_icons=true&theme=transparent&rank_icon=octicons" />
 </picture>
 
 <div style="display: inline_block"><br>
