@@ -37,7 +37,7 @@ Eu sou o **Guilherme e Silva Souza**, mais conhecido como **GuilhermeSioz**, Fut
   <a href="mailto:guilhermegsdesigner@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
-  <a href="https://www.linkedin.com/in/guilherme-e-silva-souza-49417525a/" target="_blank">
+  <a href="https://www.linkedin.com/in/guilehrme-e-silva-souza-49417525a/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
 </div>  
