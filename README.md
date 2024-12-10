@@ -28,7 +28,7 @@ Eu sou o **Guilherme e Silva Souza**, mais conhecido como **GuilhermeSioz**, Fut
 ##
 
 <div> 
-  <a href="https://instagram.com/guilherme_e_silva_souza" target="_blank">
+  <a href="https://instagram.com/guilherme_e_silva_souza">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white&label=Guilherme" alt="Instagram masculino">
   </a>
   <a href="https://discord.gg/guilhermegs0628" target="_blank">
